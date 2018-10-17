@@ -1,4 +1,4 @@
-name := "scala_postgres_batchs_scheduler"
+name := "scala_supervised_scheduler"
 
 version := "1.0"
 
